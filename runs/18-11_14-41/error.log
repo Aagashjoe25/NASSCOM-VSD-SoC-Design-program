@@ -1,0 +1,8 @@
+during executing: "openroad -exit /openLANE_flow/scripts/openroad/or_floorplan.tcl |& tee >&@stdout /openLANE_flow/designs/picorv32a/runs/18-11_14-41/logs/floorplan/1-verilog2def.openroad.log"
+Last 10 lines:
+child process exited abnormally
+
+during executing: "openroad -exit /openLANE_flow/scripts/openroad/or_floorplan.tcl |& tee >&@stdout /openLANE_flow/designs/picorv32a/runs/18-11_14-41/logs/floorplan/2-verilog2def.openroad.log"
+Last 10 lines:
+child process exited abnormally
+
